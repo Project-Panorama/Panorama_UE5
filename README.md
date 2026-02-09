@@ -1,6 +1,3 @@
-# Panormama_UE5
-언리얼 엔진 5 프로젝트 메인 저장소
-
 # 🎬 Unreal Engine 5 Project
 리얼타임 렌더링 및 시네마틱 제작을 위한 메인 프로젝트입니다.
 
