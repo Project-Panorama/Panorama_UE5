@@ -2215,3 +2215,70 @@ FPackageName: Skipped package /Game/Level/LV_Main_Presistent_HLOD0_Instancing ha
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
 [2026.02.11-02.23.26:846][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.11-02.25.04:502][568]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.11-02.25.04:503][568]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.11-02.25.04:934][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.11-02.25.04:936][606]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.02.11-02.25.04:940][606]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.11-02.25.04:940][606]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.11-02.25.09:043][ 90]Cmd: DELETE
+[2026.02.11-02.25.09:043][ 90]Cmd: ACTOR DELETE
+[2026.02.11-02.25.09:054][ 90]LogEditorActor: Deleted Actor: PointLight
+[2026.02.11-02.25.09:066][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-02.25.09:068][ 90]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.11-02.25.53:576][371]LogContentBrowser: Attempting asset rename: LV_Main_Presistent -> LV_Main_Persistent
+[2026.02.11-02.25.56:177][371]LogSlate: Window '메시지' being destroyed
+[2026.02.11-02.25.56:180][371]Message dialog closed, result: Ok, title: 메시지, text: 소스 코드, 환경설정 INI 및 텍스트 파일에서 다음에 대한 찾기/바꾸기가 필요할 수 있습니다.
+
+
+LV_Main_Presistent
+
+그렇지 않으면 쿠킹된 빌드에서 에셋이 누락될 수 있습니다. 이름을 변경하고 계속할까요?
+[2026.02.11-02.25.56:208][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.25.56:209][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV_Main_Persistent" FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_Main_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.11-02.25.56:243][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.11-02.25.56:256][371]LogSavePackage: Moving output files for package: /Game/Level/LV_Main_Persistent
+[2026.02.11-02.25.56:256][371]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/LV_Main_Persistent52A8A3C940CD86E4202F93A6FA7A54C3.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_Main_Persistent.umap'
+[2026.02.11-02.25.56:268][371]LogFileHelpers: Saving map 'LV_Main_Persistent' took 0.059
+[2026.02.11-02.25.56:268][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/LV_Main_Presistent] ([1] browsable assets)...
+[2026.02.11-02.25.56:268][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/LV_Main_Presistent]
+[2026.02.11-02.25.56:268][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV_Main_Presistent" FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_Main_Presistent.umap" SILENT=true
+[2026.02.11-02.25.56:273][371]LogSavePackage: Moving output files for package: /Game/Level/LV_Main_Presistent
+[2026.02.11-02.25.56:273][371]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/LV_Main_PresistentD365E9FB41E20F36E18E9DB6824EB31F.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_Main_Presistent.umap'
+[2026.02.11-02.25.56:274][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.696 ms (total: 47.7 sec)
+[2026.02.11-02.25.56:333][371]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.11-02.25.56:333][371]LogContentValidation: Enabled validators:
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.25.56:333][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.25.56:333][371]AssetCheck: /Game/Level/LV_Main_Persistent 에셋 유효성 검사 중
+[2026.02.11-02.25.56:334][371]AssetCheck: /Game/Level/LV_Main_Presistent 에셋 유효성 검사 중
+[2026.02.11-02.25.56:364][371]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../git/Panorama_UE5/Project_Panorama/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-02.25.58:612][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.11-02.25.59:767][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.11-02.25.59:938][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-02.26.17:571][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.11-02.26.17:572][831]LogStreaming: Display: FlushAsyncLoading(913): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-02.26.17:573][831]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_ENV_Forest
+[2026.02.11-02.26.17:574][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_ENV_Forest.LV_ENV_Forest
+[2026.02.11-02.26.17:574][831]Cmd: MAP LOAD FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_ENV_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.11-02.26.17:597][831]LogWorld: UWorld::CleanupWorld for LV_Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-02.26.17:597][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-02.26.17:610][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.11-02.26.17:611][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.11-02.26.17:612][831]LogWorld: UWorld::CleanupWorld for LV_ENV_Forest, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-02.26.17:612][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-02.26.17:623][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.11-02.26.17:634][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.11-02.26.17:636][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_ENV_Forest'.
+[2026.02.11-02.26.17:636][831]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_ENV_Forest
+[2026.02.11-02.26.17:654][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.11-02.26.17:666][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.11-02.26.17:710][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.11-02.26.17:710][831]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.051ms.
+[2026.02.11-02.26.17:757][832]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
