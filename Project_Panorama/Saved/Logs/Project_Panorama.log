@@ -1360,3 +1360,321 @@ LV_Main_Persistent
 [2026.02.11-07.54.00:396][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
 [2026.02.11-07.54.00:408][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
 [2026.02.11-07.54.06:465][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-07.54.14:183][ 11]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.11-07.54.40:443][833]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.54.40:531][833]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.54.41:726][833]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.02.11-07.54.41:752][833]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-07.54.41:870][834]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.54.41:920][835]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.54.41:925][836]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.54.41:975][836]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.54.41:976][836]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS.../03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.54.41:976][836]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] FBX 파일의 이 메시 '_System_001'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-07.54.41:976][836]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] '_System_001' 메시에서 폴리곤을 찾지 못했습니다.
+[2026.02.11-07.54.41:976][836]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] MeshDescription 생성 중에 오류가 발생하여 스태틱 메시 페이로드를 가져올 수 없습니다.
+[2026.02.11-07.54.41:976][836]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : '', Unknown] FBX 페이로드 데이터를 가져올 수 없습니다.
+[2026.02.11-07.54.41:985][836]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-07.54.41:985][836]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-07.57.58:971][479]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-07.57.58:971][479]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-07.57.58:987][479]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.57.58:988][479]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.57.58:989][479]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS...nv/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-07.57.58:989][479]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '', Unknown] 이름이 변경된 에셋: 
+ 원래 이름:[/Game/Env_Forest/meshes/grass_02] 새 이름:[/Game/Env_Forest/meshes/grass_021]
+[2026.02.11-07.57.58:989][479]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : 'Grass_01', StaticMesh] FBX 파일의 이 메시 '_System_001'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-07.57.58:989][479]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : 'Grass_01', StaticMesh] '_System_001' 메시에서 폴리곤을 찾지 못했습니다.
+[2026.02.11-07.57.58:989][479]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : 'Grass_01', StaticMesh] MeshDescription 생성 중에 오류가 발생하여 스태틱 메시 페이로드를 가져올 수 없습니다.
+[2026.02.11-07.57.58:989][479]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '', Unknown] FBX 페이로드 데이터를 가져올 수 없습니다.
+[2026.02.11-07.57.58:989][479]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '', Unknown] FBX 파일의 이 메시 'Plane_009'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-07.57.59:004][479]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-07.57.59:004][479]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-07.58.03:251][893]LogSlate: Window '메시지 로그' being destroyed
+[2026.02.11-07.58.03:255][893]LogSlate: Window '메시지 로그' being destroyed
+[2026.02.11-07.58.05:023][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.11-07.58.06:071][ 52]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.11-07.58.06:090][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.11-07.58.06:108][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.11-07.58.06:120][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-07.58.07:421][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1362.469971
+[2026.02.11-07.58.07:679][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-07.58.07:679][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1362.718750, Update Interval: 335.444824
+[2026.02.11-08.00.52:170][756]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.11-08.01.03:172][208]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.01.03:259][208]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-08.01.31:034][208]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.02.11-08.01.31:057][208]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-08.01.31:178][209]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.01.31:244][210]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/_System._System:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-08.01.31:247][210]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.01.31:313][211]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.01.31:376][212]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/_System._System:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-08.01.31:376][212]LogTexture: Display: 텍스처 빌드 중: /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color.Foliage006_1K-PNG_Color(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 115.583323MB), 인코딩 속도: Fast
+[2026.02.11-08.01.31:381][213]LogStaticMesh: Display: grass_021스태틱 메시 빌드 중(필요 메모리 예상: 0.26805MB)...
+[2026.02.11-08.01.31:383][213]LogStaticMesh: Adjacency [0.00s], tris: 164, UVs 1
+[2026.02.11-08.01.31:385][213]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.02.11-08.01.31:385][213]LogStaticMesh: Leaves [0.00s]
+[2026.02.11-08.01.31:386][213]LogStaticMesh: Reduce [0.00s]
+[2026.02.11-08.01.31:387][213]LogStaticMesh: Fallback [0.00s], num tris: 164
+[2026.02.11-08.01.31:387][213]LogStaticMesh: Fallback [0.00s], num tris: 164
+[2026.02.11-08.01.31:387][213]LogStaticMesh: ConstrainClusters:
+[2026.02.11-08.01.31:387][213]LogStaticMesh:   Input: 3 Clusters, 290 Triangles and 255 Vertices
+[2026.02.11-08.01.31:387][213]LogStaticMesh:   Output without splits: 3 Clusters, 290 Triangles and 255 Vertices
+[2026.02.11-08.01.31:387][213]LogStaticMesh:   Output with splits: 3 Clusters, 290 Triangles and 255 Vertices
+[2026.02.11-08.01.31:387][213]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.11-08.01.31:388][213]LogStaticMesh: WritePages:
+[2026.02.11-08.01.31:388][213]LogStaticMesh:   Root: GPU size: 3372 bytes. 1 Pages. 3372.000 bytes per page (10.291% utilization).
+[2026.02.11-08.01.31:388][213]LogStaticMesh:   Streaming: 0 bytes.
+[2026.02.11-08.01.31:388][213]LogStaticMesh:   Page data disk size: 2956 bytes. Fixup data size: 40 bytes.
+[2026.02.11-08.01.31:388][213]LogStaticMesh:   Total GPU size: 3372 bytes, Total disk size: 2996 bytes.
+[2026.02.11-08.01.31:388][213]LogStaticMesh: Encode [0.00s]
+[2026.02.11-08.01.31:388][213]LogStaticMesh: NaniteBuild [0.01s]
+[2026.02.11-08.01.31:391][213]LogStaticMesh: Built static mesh [0.01s] /Game/Env_Forest/meshes/grass_021.grass_021
+[2026.02.11-08.01.31:513][214]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/_System._System:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-08.01.31:515][214]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS...nv/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-08.01.31:515][214]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '', Unknown] 이름이 변경된 에셋: 
+ 원래 이름:[/Game/Env_Forest/meshes/grass_02] 새 이름:[/Game/Env_Forest/meshes/grass_021]
+[2026.02.11-08.01.31:515][214]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '_System', StaticMesh] FBX 파일의 이 메시 '_System_001'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-08.01.31:515][214]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '_System', StaticMesh] '_System_001' 메시에서 폴리곤을 찾지 못했습니다.
+[2026.02.11-08.01.31:515][214]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '_System', StaticMesh] MeshDescription 생성 중에 오류가 발생하여 스태틱 메시 페이로드를 가져올 수 없습니다.
+[2026.02.11-08.01.31:515][214]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : '', Unknown] FBX 페이로드 데이터를 가져올 수 없습니다.
+[2026.02.11-08.01.31:515][214]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : 'grass_021', StaticMesh] FBX 파일의 이 메시 'Plane_009'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-08.01.31:524][214]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-08.01.31:524][214]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-08.01.32:496][281]LogMaterial: Display: Material /Game/Env_Forest/meshes/grass_02.grass_02 needed to have new flag set bUsedWithNanite !
+[2026.02.11-08.01.47:871][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021
+[2026.02.11-08.01.47:871][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021
+[2026.02.11-08.01.47:871][552]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021 as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_2
+[2026.02.11-08.01.48:235][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.11-08.01.48:239][589]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.02.11-08.01.48:243][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021
+[2026.02.11-08.01.48:243][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021
+[2026.02.11-08.01.48:244][589]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021 as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_3
+[2026.02.11-08.01.51:722][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/_System._System
+[2026.02.11-08.01.51:722][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/_System._System
+[2026.02.11-08.01.51:722][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/_System._System as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_5
+[2026.02.11-08.01.52:137][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.11-08.01.52:140][999]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.02.11-08.01.52:144][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/_System._System
+[2026.02.11-08.01.52:144][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/_System._System
+[2026.02.11-08.01.52:145][999]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/_System._System as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_7
+[2026.02.11-08.01.52:148][999]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_7.StaticMeshComponent0.
+[2026.02.11-08.02.27:599][625]LogShaderCompilers: Display: ================================================
+[2026.02.11-08.02.27:599][625]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.11-08.02.27:599][625]LogShaderCompilers: Display: Total job queries 527, among them cache hits 68 (12.90%), DDC hits 358 (67.93%), Duplicates 81 (15.37%)
+[2026.02.11-08.02.27:599][625]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 266 distinct outputs (70.37%)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: RAM used: 3.64 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Shaders Compiled: 20
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Average time worker was idle: 693.75 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 3.68 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Job life time (pending + execution): average 2.09 s, max 3.72
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Shader code size: total 228.943 KiB, numShaders 20, average 11.446 KiB, min 5.102 KiB, max 20.223 KiB
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.03 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.54 jobs/batch
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Total thread time: 18.295 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Total thread preprocess time: 5.363 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Percentage time preprocessing: 29.31%
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Effective parallelization: 3.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.454369
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.27 sec, max 1.48 sec, min 1.06 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.20 sec, max 1.60 sec, min 0.81 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.72% of total time (compiled    3 times, average 1.20 sec, max 1.60 sec, min 0.81 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.89% of total time (compiled    2 times, average 1.27 sec, max 1.48 sec, min 1.06 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.66% of total time (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.63% of total time (compiled    1 times, average 2.13 sec, max 2.13 sec, min 2.13 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display:                                                 FLumenCardCS - 9.85% of total time (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: === Material stats ===
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Materials Translated:    144
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Material Translation Only: 0.03 s (57%)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (5%)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: Material Cache Hits: 54 (38%)
+[2026.02.11-08.02.27:600][625]LogShaderCompilers: Display: ================================================
+[2026.02.11-08.03.11:618][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-08.03.11:636][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_ENV_Forest_Auto2
+[2026.02.11-08.03.11:636][673]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/LV_ENV_Forest_Auto2A170D3064061B44D4F8350BE51D02123.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Level/LV_ENV_Forest_Auto2.umap'
+[2026.02.11-08.03.11:637][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_ENV_Forest' took 0.033
+[2026.02.11-08.03.11:637][673]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.02.11-08.03.11:638][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/_System] ([1] browsable assets)...
+[2026.02.11-08.03.11:672][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Env_Forest/meshes/_System._System]
+[2026.02.11-08.03.11:672][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/_System]
+[2026.02.11-08.03.11:682][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/_System_Auto2
+[2026.02.11-08.03.11:682][673]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/_System_Auto2079E897E4CF319880B52E788D9428055.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/_System_Auto2.uasset'
+[2026.02.11-08.03.11:683][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color] ([1] browsable assets)...
+[2026.02.11-08.03.11:684][673]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color.Foliage006_1K-PNG_Color]
+[2026.02.11-08.03.11:684][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color]
+[2026.02.11-08.03.11:694][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color_Auto2
+[2026.02.11-08.03.11:694][673]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Foliage006_1K-PNG_Color_Auto274D912424615309A7112FC95F8908408.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color_Auto2.uasset'
+[2026.02.11-08.03.11:694][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/grass_02] ([1] browsable assets)...
+[2026.02.11-08.03.11:702][673]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Env_Forest/meshes/grass_02.grass_02]
+[2026.02.11-08.03.11:702][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/grass_02]
+[2026.02.11-08.03.11:712][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/grass_02_Auto2
+[2026.02.11-08.03.11:712][673]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/grass_02_Auto23A7F577E4A318E689BAD0DBA01C05D59.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/grass_02_Auto2.uasset'
+[2026.02.11-08.03.11:712][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/grass_021] ([1] browsable assets)...
+[2026.02.11-08.03.11:720][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Env_Forest/meshes/grass_021.grass_021]
+[2026.02.11-08.03.11:720][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/grass_021]
+[2026.02.11-08.03.11:728][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/grass_021_Auto2
+[2026.02.11-08.03.11:728][673]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/grass_021_Auto230A3494E4EA4573A2FCC40B93C265831.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/grass_021_Auto2.uasset'
+[2026.02.11-08.03.11:729][673]LogFileHelpers: Auto-saving content packages took 0.091
+[2026.02.11-08.04.10:091][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.145508
+[2026.02.11-08.04.10:352][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-08.04.10:352][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.396851, Update Interval: 335.336761
+[2026.02.11-08.08.49:313][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.11-08.08.50:327][947]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.11-08.08.50:372][947]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Env_Forest/meshes/_System._System
+	Asset Type: StaticMesh
+	Asset Name: /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color.Foliage006_1K-PNG_Color
+	Asset Type: Texture2D
+	Asset Name: /Game/Env_Forest/meshes/grass_02.grass_02
+	Asset Type: Material
+	Asset Name: /Game/Env_Forest/meshes/grass_021.grass_021
+	Asset Type: StaticMesh
+[2026.02.11-08.08.50:451][947]LogMaterial: Warning: [AssetLog] /Game/Env_Forest/meshes/grass_02.grass_02: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.02.11-08.08.50:452][947]LogMaterial: Warning: [AssetLog] /Game/Env_Forest/meshes/grass_02.grass_02: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.02.11-08.08.50:517][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.11-08.08.50:529][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.11-08.08.50:540][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.11-08.09.07:455][621]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.09.07:546][621]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-08.09.09:466][621]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.02.11-08.09.09:482][621]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-08.09.09:601][622]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.09.09:650][623]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.09.09:733][624]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.09.09:813][625]LogStaticMesh: Display: Grass_01스태틱 메시 빌드 중(필요 메모리 예상: 26.032438MB)...
+[2026.02.11-08.09.09:866][626]LogStaticMesh: Adjacency [0.00s], tris: 16400, UVs 1
+[2026.02.11-08.09.09:892][627]LogStaticMesh: Clustering [0.03s]. Ratio: 1.023256
+[2026.02.11-08.09.09:894][627]LogStaticMesh: Leaves [0.00s]
+[2026.02.11-08.09.09:990][628]LogStaticMesh: Reduce [0.10s]
+[2026.02.11-08.09.10:011][628]LogStaticMesh: Fallback [0.02s], num tris: 1203
+[2026.02.11-08.09.10:015][628]LogStaticMesh: Fallback [0.00s], num tris: 287
+[2026.02.11-08.09.10:021][628]LogStaticMesh: ConstrainClusters:
+[2026.02.11-08.09.10:021][628]LogStaticMesh:   Input: 270 Clusters, 33787 Triangles and 36234 Vertices
+[2026.02.11-08.09.10:021][628]LogStaticMesh:   Output without splits: 270 Clusters, 33787 Triangles and 36259 Vertices
+[2026.02.11-08.09.10:021][628]LogStaticMesh:   Output with splits: 276 Clusters, 33787 Triangles and 36263 Vertices
+[2026.02.11-08.09.10:021][628]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 276, Slow Path Clusters: 0, 1 Material: 276, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.11-08.09.10:024][628]LogStaticMesh: WritePages:
+[2026.02.11-08.09.10:024][628]LogStaticMesh:   Root: GPU size: 31848 bytes. 1 Pages. 31848.000 bytes per page (97.192% utilization).
+[2026.02.11-08.09.10:024][628]LogStaticMesh:   Streaming: GPU size: 401320 bytes. 4 Pages (4 with relative encoding). 100330.000 bytes per page (76.546% utilization).
+[2026.02.11-08.09.10:024][628]LogStaticMesh:   Page data disk size: 367880 bytes. Fixup data size: 1504 bytes.
+[2026.02.11-08.09.10:024][628]LogStaticMesh:   Total GPU size: 433168 bytes, Total disk size: 369384 bytes.
+[2026.02.11-08.09.10:024][628]LogStaticMesh: Encode [0.01s]
+[2026.02.11-08.09.10:024][628]LogStaticMesh: NaniteBuild [0.16s]
+[2026.02.11-08.09.10:032][628]LogStaticMesh: Built static mesh [0.22s] /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.09.10:141][634]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS...nv/03_Forest/01_save/Grass_01.fbx]
+[2026.02.11-08.09.10:141][634]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/01_save/Grass_01.fbx : 'Grass_01', StaticMesh] FBX 파일의 이 메시 '_System'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-08.09.10:149][634]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-08.09.10:149][634]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-08.09.11:155][704]LogMaterial: Display: Material /Game/Env_Forest/meshes/grass_02.grass_02 needed to have new flag set bUsedWithNanite !
+[2026.02.11-08.09.25:275][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.09.25:275][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.09.25:276][863]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01 as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_9
+[2026.02.11-08.09.25:867][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.11-08.09.25:871][915]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.02.11-08.09.25:875][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.09.25:875][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.09.25:876][915]LogActorFactory: Actor Factory spawned StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01 as actor: StaticMeshActor /Game/Level/LV_ENV_Forest.LV_ENV_Forest:PersistentLevel.StaticMeshActor_10
+[2026.02.11-08.10.34:836][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2109.892822
+[2026.02.11-08.10.35:071][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-08.10.35:071][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2110.119141, Update Interval: 319.318207
+[2026.02.11-08.11.21:341][645]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_tropicalGroundPlants/Meshes/tropicalPlant_03_01.tropicalPlant_03_01
+[2026.02.11-08.11.21:395][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.11-08.11.21:400][645]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-08.11.35:277][741]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-08.11.35:284][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.11-08.13.12:031][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.11-08.13.12:048][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_ENV_Forest_Auto3
+[2026.02.11-08.13.12:048][984]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/LV_ENV_Forest_Auto31ED0A97C430231302AB7CDA0F7A97806.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Level/LV_ENV_Forest_Auto3.umap'
+[2026.02.11-08.13.12:049][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_ENV_Forest' took 0.057
+[2026.02.11-08.13.12:049][984]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2026.02.11-08.13.12:049][984]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color] ([1] browsable assets)...
+[2026.02.11-08.13.12:050][984]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color.Foliage006_1K-PNG_Color]
+[2026.02.11-08.13.12:050][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color]
+[2026.02.11-08.13.12:059][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color_Auto3
+[2026.02.11-08.13.12:059][984]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Foliage006_1K-PNG_Color_Auto396CFD0E84CC1942EF70070A0833C4592.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color_Auto3.uasset'
+[2026.02.11-08.13.12:060][984]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/grass_02] ([1] browsable assets)...
+[2026.02.11-08.13.12:069][984]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Env_Forest/meshes/grass_02.grass_02]
+[2026.02.11-08.13.12:069][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/grass_02]
+[2026.02.11-08.13.12:078][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/grass_02_Auto3
+[2026.02.11-08.13.12:078][984]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/grass_02_Auto3218DA5BA491CEEAF318CC1878C34B915.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/grass_02_Auto3.uasset'
+[2026.02.11-08.13.12:079][984]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/Grass_01] ([1] browsable assets)...
+[2026.02.11-08.13.12:086][984]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01]
+[2026.02.11-08.13.12:086][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Grass_01]
+[2026.02.11-08.13.12:102][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/Grass_01_Auto3
+[2026.02.11-08.13.12:102][984]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Grass_01_Auto3ABEC6ED64037E66AC884A380C6F1B6B2.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/Grass_01_Auto3.uasset'
+[2026.02.11-08.13.12:102][984]LogFileHelpers: Auto-saving content packages took 0.053
+[2026.02.11-08.13.55:165][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-08.13.55:233][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV_ENV_Forest" FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_ENV_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.11-08.13.55:272][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.11-08.13.55:285][342]LogSavePackage: Moving output files for package: /Game/Level/LV_ENV_Forest
+[2026.02.11-08.13.55:286][342]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/LV_ENV_ForestF5D22CA64EF83996866D01BFBAC3990F.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Level/LV_ENV_Forest.umap'
+[2026.02.11-08.13.55:297][342]LogFileHelpers: Saving map 'LV_ENV_Forest' took 0.064
+[2026.02.11-08.13.55:304][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.019 ms (total: 182.341 ms)
+[2026.02.11-08.13.55:411][342]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-08.13.55:411][342]LogContentValidation: Enabled validators:
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-08.13.55:411][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-08.13.55:412][342]AssetCheck: /Game/Level/LV_ENV_Forest 에셋 유효성 검사 중
+[2026.02.11-08.13.56:986][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.11-08.13.58:290][452]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.02.11-08.13.58:298][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-08.13.58:397][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color] ([1] browsable assets)...
+[2026.02.11-08.13.58:397][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Foliage006_1K-PNG_Color]
+[2026.02.11-08.13.58:413][452]LogSavePackage: Moving output files for package: /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color
+[2026.02.11-08.13.58:413][452]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Foliage006_1K-PNG_ColorDDC898D54E375471F4C536A2D46CB884.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Env_Forest/meshes/Foliage006_1K-PNG_Color.uasset'
+[2026.02.11-08.13.58:414][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Env_Forest/meshes/Grass_01] ([1] browsable assets)...
+[2026.02.11-08.13.58:414][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Grass_01]
+[2026.02.11-08.13.58:414][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Env_Forest/meshes/Grass_01" FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Env_Forest/meshes/Grass_01.uasset" SILENT=true
+[2026.02.11-08.13.58:428][452]LogSavePackage: Moving output files for package: /Game/Env_Forest/meshes/Grass_01
+[2026.02.11-08.13.58:428][452]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Grass_01AA695267497959E73E004C804DFDA19E.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Env_Forest/meshes/Grass_01.uasset'
+[2026.02.11-08.13.58:429][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Env_Forest/meshes/grass_02] ([1] browsable assets)...
+[2026.02.11-08.13.58:429][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/grass_02]
+[2026.02.11-08.13.58:429][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Env_Forest/meshes/grass_02" FILE="../../../../../../git/Panorama_UE5/Project_Panorama/Content/Env_Forest/meshes/grass_02.uasset" SILENT=true
+[2026.02.11-08.13.58:437][452]LogSavePackage: Moving output files for package: /Game/Env_Forest/meshes/grass_02
+[2026.02.11-08.13.58:437][452]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/grass_020D2269324F1E3B55894CB4B401A6CA94.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Content/Env_Forest/meshes/grass_02.uasset'
+[2026.02.11-08.13.58:445][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.334 ms (total: 330.676 ms)
+[2026.02.11-08.13.58:545][452]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.11-08.13.58:545][452]LogContentValidation: Enabled validators:
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-08.13.58:545][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-08.13.58:545][452]AssetCheck: /Game/Env_Forest/meshes/Foliage006_1K-PNG_Color 에셋 유효성 검사 중
+[2026.02.11-08.13.58:545][452]AssetCheck: /Game/Env_Forest/meshes/Grass_01 에셋 유효성 검사 중
+[2026.02.11-08.13.58:545][452]AssetCheck: /Game/Env_Forest/meshes/grass_02 에셋 유효성 검사 중
+[2026.02.11-08.13.58:565][452]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../git/Panorama_UE5/Project_Panorama/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-08.14.22:347][ 74]LogSlate: Window '메시지' being destroyed
+[2026.02.11-08.14.22:350][ 74]Message dialog closed, result: No, title: 메시지, text: 레벨 오브 디테일 변경내용을 Grass_01에 적용하시겠습니까?
+
+(아니오는 모든 변경내용을 버립니다!)
+[2026.02.11-08.14.22:368][ 74]LogSlate: Window 'Grass_01' being destroyed
+[2026.02.11-08.14.22:372][ 74]LogSlate: Window 'Grass_01' being destroyed
+[2026.02.11-08.14.22:416][ 74]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-08.14.22:417][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-08.14.22:473][ 74]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-08.14.22:473][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-08.14.22:499][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
